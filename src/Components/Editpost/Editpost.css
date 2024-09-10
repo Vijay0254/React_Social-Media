@@ -1,0 +1,47 @@
+.editpost{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+.editpost_form{
+    padding-top: 13px;
+    display: flex;
+    flex-direction: column;
+}
+.editpost_form label{
+    font-size: 14px;
+    padding-bottom: 5px;
+}
+.editpost_form input{
+    height: 30px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    padding-left: 10px;
+    width: 90%;
+    border: 1px solid #7f8c8d;
+}
+.editpost_form textarea{
+    height: 70px;
+    border-radius: 5px;
+    padding-left: 10px;
+    padding-top: 5px;
+    width: 90%;
+    resize: none;
+    border: 1px solid #7f8c8d;
+}
+.editpost button{
+    padding: 10px 0px;
+    width: 91%;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 15px;
+}
+.editpost a{
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+.editpage_notfound{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

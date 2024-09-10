@@ -1,0 +1,11 @@
+.missing{
+    text-align: center;
+    padding-top: 50px;
+}
+.missing a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.missing h2{
+    padding-bottom: 10px;
+}

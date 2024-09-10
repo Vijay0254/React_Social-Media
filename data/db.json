@@ -1,0 +1,22 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "January 10, 2024  1:25:48 PM",
+      "body": "Just started my journey towards frontend development"
+    },
+    {
+      "id": "3",
+      "title": "My Second Post",
+      "datetime": "April 23, 2024  1:27:29 PM",
+      "body": "Finished HTML and CSS. Now goin start with Javascript"
+    },
+    {
+      "id": "31",
+      "title": "My Third Post",
+      "datetime": "August 1, 2024  10:29:43 AM",
+      "body": "Developed several mini projects using Javascript. Now moving to it's popular library which is nothing other than React js"
+    }
+  ]
+}
